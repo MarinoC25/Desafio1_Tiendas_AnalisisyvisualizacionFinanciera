@@ -1,0 +1,2 @@
+# Desafio1_Tiendas_AnalisisyvisualizacionFinanciera
+Practicando Python para data sciencie
